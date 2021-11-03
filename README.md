@@ -1,2 +1,0 @@
-# props-lesson
-# props-lesson
