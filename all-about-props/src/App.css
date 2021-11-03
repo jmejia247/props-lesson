@@ -1,0 +1,33 @@
+/* THESE ARE SOME PREMADE CSS RULESETS I MADE TO SMOOTH THE PROCESS OUT */
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: greenyellow;
+}
+
+.card {
+  width: 150vh;
+  background: greenyellow;
+}
+
+.product {
+  border-radius: 3px;
+  border: 1px solid lightgray;
+  box-shadow: 2px 5px black;
+  margin-top: 20px;
+  background: darkblue;
+  color: #007575;
+  width: 25vh;
+  height: 65vh;
+}
+
+.product-ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
